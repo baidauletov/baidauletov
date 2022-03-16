@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baidauletov
 - 👀 I’m interested in JS
-- 🌱 I’m currently learning NScript
-- 💞️ I’m looking to collaborate on JS, NScript
+- 🌱 I’m currently learning JS, VUE
+- 💞️ I’m looking to collaborate on JS, 
 - 📫 How to reach me by mail baidauletov.nr@gmail.com
 
 <!---
